@@ -1,0 +1,35 @@
+	<a-curvedimage src="#DR2" radius="5.7" theta-length="50" height="5.0"
+                     opacity="0.2" rotation="0 100 0" position="0 2 0"></a-curvedimage>
+	<a-curvedimage src="#DR3" radius="5.7" theta-length="72" height="2.6"
+                     rotation="0 80 0" position="0 0.7 0" scale="0.6 0.6 0.6"></a-curvedimage>
+	<a-curvedimage src="#DR4" radius="5.7" theta-length="70" height="3.02"
+                     rotation="0 -130 0" scale="0.8 0.8 0.8"></a-curvedimage>
+ 
+ 
+ 	<a-curvedimage src="#DR7" height="5.0" radius="5.7" theta-length="50"
+                 rotation="0 -50 0"></a-curvedimage>			 
+	<a-curvedimage src="#D8" height="5.0" radius="5.7" theta-length="50"
+                 rotation="0 -150 0" scale="0.8 0.8 0.8"></a-curvedimage>
+	<a-curvedimage src="#DR9" height="5.0" radius="5.7" theta-length="50"
+                 rotation="0 -200 0"></a-curvedimage>	
+				 
+				 
+				 
+				 	--<a-image position="0 -5 0" src="#DR5" rotation="-90 0 0" scale="6 6 6"></a-image>
+					
+					--<a-image position="0 5 0" src="#DR5" rotation="90 0 0" scale="6 6 6"></a-image>
+					
+	<a-curvedimage src="#DR11" position="0 5 0" height="5.0" radius="5.7" theta-length="45"
+                 rotation="0 65 0" "></a-curvedimage>
+	<a-curvedimage src="#DR12" position="0 5 0" height="5.0" radius="5.7" theta-length="45"
+                 rotation="0 110 0"></a-curvedimage>	
+	<a-curvedimage src="#DR13" position="0 5 0" height="5.0" radius="5.7" theta-length="45"
+                 rotation="0 155 0" "></a-curvedimage>
+	<a-curvedimage src="#DR14" position="0 5 0" height="5.0" radius="5.7" theta-length="45"
+                 rotation="0 200 0"></a-curvedimage>
+	<a-curvedimage src="#DR15" position="0 5 0" height="5.0" radius="5.7" theta-length="45"
+                 rotation="0 245 0"></a-curvedimage>	
+<a-curvedimage src="#DR16" position="0 5 0" height="5.0" radius="5.7" theta-length="45"
+                 rotation="0 290 0"></a-curvedimage>	
+<a-curvedimage src="#DR17" position="0 5 0" height="5.0" radius="5.7" theta-length="45"
+                 rotation="0 335 0"></a-curvedimage>	
